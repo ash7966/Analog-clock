@@ -1,5 +1,6 @@
 # My first java program of applet 
 # Analog-clock
+# note: you must have jdk installed on your PC
 simple analog clock synchronised to system
 
 open cmd
